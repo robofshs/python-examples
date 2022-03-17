@@ -19,6 +19,7 @@ colour_sensor = ColorSensor(INPUT_1)
 
 # Enter loop that we will repeat ever 2 seconds. This
 # loop will contain all of the sampling code.
+
 while True:
 
     # Create a variable which we record data to as a 
