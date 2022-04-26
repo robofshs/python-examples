@@ -40,4 +40,4 @@ while True:
 
     # Wait 2 seconds before the next loop
 
-    time.sleep(2)
+    sleep(2)
